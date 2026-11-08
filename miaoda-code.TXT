@@ -1,0 +1,24 @@
+Plain Craft Launcher 2 (PCL2) 使用许可协议
+
+1. 软件归属
+本启动器由 龙腾猫跃 开发，开源项目，官方网站：https://github.com/huanghongxun/HMCL-PCL2
+⚠️注意：PCL2 非Mojang官方软件，仅为第三方Minecraft启动器。
+
+2. 使用条款
+① 允许个人免费非商用使用；
+② 禁止二次打包售卖、篡改后冒充原版分发；
+③ 禁止用于违法、违规用途；
+④ 禁止去除原始作者标识进行二次发布。
+
+3. 免责声明
+① Minecraft 版权归属 Mojang Studios / Microsoft；
+② 使用本启动器产生的账号风险、文件损坏、存档丢失，由使用者自行承担；
+③ 模组、光影、材质包等第三方资源版权归对应作者所有；
+④ 本软件不提供正版游戏账号，账号请自行官方购买。
+
+4. 技术支持
+官方仓库：https://github.com/huanghongxun/HMCL-PCL2
+问题反馈请前往官方仓库提交Issue。
+
+我已阅读并同意以上协议
+}

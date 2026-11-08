@@ -1,0 +1,26 @@
+=============================================
+Plain Craft Launcher 2 安装完成
+版本：2.13.0.1
+官方仓库：https://github.com/huanghongxun/HMCL-PCL2
+=============================================
+
+▶ 启动方式
+桌面快捷方式：PCL2
+程序路径：D:\Program Files\MC\Plain Craft Launcher 2.exe
+
+▶ 目录说明
+.modpack 存放游戏版本、模组、配置
+shaderpacks 光影包
+resourcepacks 材质包
+litematic 投影文件（生电Litematica）
+
+▶ 常见问题
+1. Iris + Sodium 冲突：升级Iris至1.10.8以上适配新版Sodium
+2. 游戏闪退：检查Fabric版本、模组兼容关系
+3. 网络下载失败：切换下载源
+
+▶ 版权提醒
+Minecraft ©Mojang Studios Microsoft
+各类模组、光影版权归原作者所有，请勿私自商用。
+
+祝你游玩愉快！
